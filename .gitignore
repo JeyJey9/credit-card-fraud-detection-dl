@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Large raw dataset (automatically downloaded by src/download_data.py)
+data/creditcard.csv
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

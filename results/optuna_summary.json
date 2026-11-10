@@ -1,0 +1,22 @@
+{
+  "best_trial_number": 17,
+  "best_val_pr_auc": 0.8811084896915173,
+  "best_params": {
+    "architecture": "256-128-64",
+    "activation": "silu",
+    "dropout": 0.25,
+    "lr": 0.0012047026898516435,
+    "weight_decay": 0.0002617985303062432,
+    "focal_alpha": 0.65,
+    "focal_gamma": 1.75
+  },
+  "param_importances": {
+    "weight_decay": 0.3721355174117395,
+    "dropout": 0.27897227364317645,
+    "activation": 0.1357611567578494,
+    "lr": 0.10706398216764837,
+    "architecture": 0.04605708081966251,
+    "focal_gamma": 0.037018008038161805,
+    "focal_alpha": 0.022991981161761873
+  }
+}
